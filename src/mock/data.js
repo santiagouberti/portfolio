@@ -19,10 +19,11 @@ export const heroData = {
 export const aboutData = {
   img: 'perfil4.jpg',
   paragraphOne:
-    'Soy un desarrollador full stack con pasión por aprender nuevas formas de comunicar. Actualmente estoy explorando el uso de Javascript y sus derivados para hacer webs y aplicaciones.',
-  paragraphTwo: 'Estudié Comunicación Social en la UBA y tengo experiencia en periodismo escrito.',
+    'Soy un desarrollador full stack con pasión por aprender y desarrollar nuevas formas de comunicar.',
+  paragraphTwo:
+    'Actualmente estoy explorando el uso de Javascript y sus frameworks y herramientas para hacer webs y aplicaciones.',
   paragraphThree:
-    'Busco potenciarme como desarrollador en un equipo en el que pueda aprender y aportar todos los días algo nuevo.',
+    'Estudié Ciencias de la Comunicación Social en la UBA y tengo experiencia en periodismo escrito.',
   resume: 'https://drive.google.com/file/d/1tLPdOklr_2ukLt_uVDZkzVogm1rw5uNM/view?usp=sharing', // if no resume, the button will not show up
 };
 
