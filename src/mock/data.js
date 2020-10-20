@@ -24,7 +24,7 @@ export const aboutData = {
     'Actualmente estoy explorando el uso de Javascript y sus frameworks y herramientas para hacer webs y aplicaciones.',
   paragraphThree:
     'Estudié Ciencias de la Comunicación Social en la UBA y tengo experiencia en periodismo escrito.',
-  resume: 'https://drive.google.com/file/d/1tLPdOklr_2ukLt_uVDZkzVogm1rw5uNM/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1IQ7gz41iULHF4vb481wj2dsccbZCgJwL/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
